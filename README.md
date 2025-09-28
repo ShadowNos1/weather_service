@@ -4,6 +4,6 @@
 Установка и Запуск
 Скачать проект в отдельную папку и открыть его в консоли 
 Консоль: 
-npm install 
-npm run build 
-npm start
+npm install                                                                                                                                                                                                                                                           
+npm run build                                                                                                                                                                                                                                                           
+npm start                                                                                                                                                                                                                                                                  
